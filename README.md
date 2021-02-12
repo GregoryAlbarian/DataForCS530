@@ -1,2 +1,2 @@
 # HW2CS530
-multiple regression lab
+has data for CS530 to link to Google Colab
